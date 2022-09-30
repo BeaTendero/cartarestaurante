@@ -1,3 +1,13 @@
-body{
-    background-color: blanchedalmond;
+#cabecera{
+    background-color:#B1A779;
+    
+}
+#main{
+    background-color: #B1A779;
+}
+#footer{
+    background-color: #B1A779;
+}
+p{
+    font-family: 'Raleway', sans-serif;
 }
