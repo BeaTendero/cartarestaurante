@@ -1,12 +1,19 @@
 #cabecera{
     background-color:#B1A779;
+    margin-top: 100px;
     
+}
+body{
+    background-color:#B1A779; 
 }
 #main{
     background-color: #B1A779;
+    margin-top: 50px;
 }
+
 #footer{
     background-color: #B1A779;
+    margin-top: 80px;
 }
 p{
     font-family: 'Raleway', sans-serif;

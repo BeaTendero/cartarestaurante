@@ -1,10 +1,14 @@
 #cabecera{
     background-color:#B1A779;
-    
+    margin-top: 80px;
 }
 #main{
     background-color: #B1A779;
+    justify-content: center;
 }
 #footer{
     background-color: #B1A779;
+}
+body{
+    background-color:#B1A779;
 }
